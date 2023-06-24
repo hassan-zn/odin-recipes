@@ -1,1 +1,1 @@
-# odin-recipes
+This is an incredibly simple webpage that I made during the foundations course on the Odin Porject. It's just a website that shows a dinner that you can make. I used my knowledge of git and HTML to make this website!
